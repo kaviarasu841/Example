@@ -7,6 +7,7 @@ public class Test1 {
 			System.out.println("Do work...");
 			System.out.println("Do work...");
 			System.out.println("Do work...");
+			System.out.println("Do work...");
 		}
 	}
 }
