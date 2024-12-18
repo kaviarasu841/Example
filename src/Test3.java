@@ -4,7 +4,7 @@ public class Test3 {
 		if(hungry == "yes")
 			System.out.println("eat something....");
 		else {
-			System.out.println("Do...");
+			System.out.println("Do work...");
 		}
 	}
 }
