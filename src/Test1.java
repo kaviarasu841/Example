@@ -6,6 +6,7 @@ public class Test1 {
 		else {
 			System.out.println("Do work...");
 			System.out.println("Do work...");
+			System.out.println("Do work...");
 		}
 	}
 }
